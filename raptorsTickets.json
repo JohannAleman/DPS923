@@ -1,4 +1,6 @@
-[ 
+{
+ "tickets": 
+ [
  {
    "ticketType": "Balcony Level A",
    "numberOfTickets": 100,
@@ -120,4 +122,5 @@
    "baseCost": 5555.55
  }
 ]
+}
 
