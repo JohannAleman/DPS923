@@ -1,0 +1,122 @@
+[
+ {
+   "ticketType": "Balcony Level A",
+   "numberOfTickets": 100,
+   "baseCost": 85.54
+ },
+ {
+   "ticketType": "Balcony Level B",
+   "numberOfTickets": 200,
+   "baseCost": 95.73
+ },
+ {
+   "ticketType": "Balcony Level C",
+   "numberOfTickets": 300,
+   "baseCost": 65.79
+ },
+ {
+   "ticketType": "Balcony Level D",
+   "numberOfTickets": 400,
+   "baseCost": 65.75
+ },
+ {
+   "ticketType": "Balcony Level E",
+   "numberOfTickets": 350,
+   "baseCost": 45.75
+ },
+ {
+   "ticketType": "Balcony Level F",
+   "numberOfTickets": 250,
+   "baseCost": 25.89
+ },
+ {
+   "ticketType": "Balcony Level G",
+   "numberOfTickets": 150,
+   "baseCost": 30.75
+ },
+ {
+   "ticketType": "Balcony Level H",
+   "numberOfTickets": 500,
+   "baseCost": 99.99
+ },
+ {
+   "ticketType": "Lower Level A",
+   "numberOfTickets": 100,
+   "baseCost": 99.76
+ },
+ {
+   "ticketType": "Lower Level B",
+   "numberOfTickets": 200,
+   "baseCost": 99.54
+ },
+ {
+   "ticketType": "Lower Level C",
+   "numberOfTickets": 300,
+   "baseCost": 34.56
+ },
+ {
+   "ticketType": "Lower Level D",
+   "numberOfTickets": 400,
+   "baseCost": 76.89
+ },
+ {
+   "ticketType": "Lower Level E",
+   "numberOfTickets": 300,
+   "baseCost": 12.34
+ },
+ {
+   "ticketType": "Lower Level F",
+   "numberOfTickets": 250,
+   "baseCost": 56.78
+ },
+ {
+   "ticketType": "Lower Level G",
+   "numberOfTickets": 125,
+   "baseCost": 98.64
+ },
+ {
+   "ticketType": "Lower Level H",
+   "numberOfTickets": 275,
+   "baseCost": 45.76
+ },
+ {
+   "ticketType": "Courtside A",
+   "numberOfTickets": 25,
+   "baseCost": 100.54
+ },
+ {
+   "ticketType": "Courtside B",
+   "numberOfTickets": 25,
+   "baseCost": 100.34
+ },
+ {
+   "ticketType": "Courtside C",
+   "numberOfTickets": 25,
+   "baseCost": 123.45
+ },
+ {
+   "ticketType": "Courtside D",
+   "numberOfTickets": 25,
+   "baseCost": 456.67
+ },
+ {
+   "ticketType": "Courtside E",
+   "numberOfTickets": 2,
+   "baseCost": 3333.33
+ },
+ {
+   "ticketType": "Courtside F",
+   "numberOfTickets": 2,
+   "baseCost": 1000.45
+ },
+ {
+   "ticketType": "Courtside G",
+   "numberOfTickets": 5,
+   "baseCost": 1056.78
+ },
+ {
+   "ticketType": "Courtside H",
+   "numberOfTickets": 5,
+   "baseCost": 5555.55
+ }
+]
